@@ -1,0 +1,7 @@
+D:\University\ComputerSystems\Lab1-ComputerSystems\base64-encoding\base64-encoding\bin\Debug\base64-encoding.exe.config
+D:\University\ComputerSystems\Lab1-ComputerSystems\base64-encoding\base64-encoding\bin\Debug\base64-encoding.exe
+D:\University\ComputerSystems\Lab1-ComputerSystems\base64-encoding\base64-encoding\bin\Debug\base64-encoding.pdb
+D:\University\ComputerSystems\Lab1-ComputerSystems\base64-encoding\base64-encoding\obj\Debug\base64-encoding.csprojAssemblyReference.cache
+D:\University\ComputerSystems\Lab1-ComputerSystems\base64-encoding\base64-encoding\obj\Debug\base64-encoding.csproj.CoreCompileInputs.cache
+D:\University\ComputerSystems\Lab1-ComputerSystems\base64-encoding\base64-encoding\obj\Debug\base64-encoding.exe
+D:\University\ComputerSystems\Lab1-ComputerSystems\base64-encoding\base64-encoding\obj\Debug\base64-encoding.pdb

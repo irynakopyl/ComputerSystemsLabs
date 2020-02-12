@@ -1,0 +1,14 @@
+D:\University\Комп. системи\Lab1-ComputerSystems\Lab1-ComputerSystems\bin\Debug\Lab1-ComputerSystems.exe.config
+D:\University\Комп. системи\Lab1-ComputerSystems\Lab1-ComputerSystems\bin\Debug\Lab1-ComputerSystems.exe
+D:\University\Комп. системи\Lab1-ComputerSystems\Lab1-ComputerSystems\bin\Debug\Lab1-ComputerSystems.pdb
+D:\University\Комп. системи\Lab1-ComputerSystems\Lab1-ComputerSystems\obj\Debug\Lab1-ComputerSystems.csprojAssemblyReference.cache
+D:\University\Комп. системи\Lab1-ComputerSystems\Lab1-ComputerSystems\obj\Debug\Lab1-ComputerSystems.csproj.CoreCompileInputs.cache
+D:\University\Комп. системи\Lab1-ComputerSystems\Lab1-ComputerSystems\obj\Debug\Lab1-ComputerSystems.exe
+D:\University\Комп. системи\Lab1-ComputerSystems\Lab1-ComputerSystems\obj\Debug\Lab1-ComputerSystems.pdb
+D:\University\ComputerSystems\Lab1-ComputerSystems\Lab1-ComputerSystems\bin\Debug\Lab1-ComputerSystems.exe.config
+D:\University\ComputerSystems\Lab1-ComputerSystems\Lab1-ComputerSystems\bin\Debug\Lab1-ComputerSystems.exe
+D:\University\ComputerSystems\Lab1-ComputerSystems\Lab1-ComputerSystems\bin\Debug\Lab1-ComputerSystems.pdb
+D:\University\ComputerSystems\Lab1-ComputerSystems\Lab1-ComputerSystems\obj\Debug\Lab1-ComputerSystems.csprojAssemblyReference.cache
+D:\University\ComputerSystems\Lab1-ComputerSystems\Lab1-ComputerSystems\obj\Debug\Lab1-ComputerSystems.csproj.CoreCompileInputs.cache
+D:\University\ComputerSystems\Lab1-ComputerSystems\Lab1-ComputerSystems\obj\Debug\Lab1-ComputerSystems.exe
+D:\University\ComputerSystems\Lab1-ComputerSystems\Lab1-ComputerSystems\obj\Debug\Lab1-ComputerSystems.pdb
